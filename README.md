@@ -27,21 +27,21 @@ In this proof-of-concept, I aimed to create a simple but practical tool that cou
 
 ## How to run
 
-1. Clone this repo.
-2. Install dependencies:
+1. Clone this repo: git clone https://github.com/klimanyusuf/english-accent-classifier
+3. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the app:
+4. Run the app:
 
     ```bash
     streamlit run app.py
     ```
 
-4. Enter a video URL in the app and click "Run Accent Analysis" get the results.
-5. video Url for testing: https://www.youtube.com/watch?v=2Xc9gXyf2G4
+5. Enter a video URL in the app and click "Run Accent Analysis" get the results.
+6. video Url for testing: https://www.youtube.com/watch?v=2Xc9gXyf2G4
 
 ## How to replace mock classifier
 

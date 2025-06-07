@@ -1,0 +1,10 @@
+streamlit
+yt-dlp
+ffmpeg-python
+openai-whisper
+scikit-learn
+torch
+torchaudio
+numpy
+pandas
+

@@ -41,6 +41,7 @@ In this proof-of-concept, I aimed to create a simple but practical tool that cou
     ```
 
 4. Enter a video URL in the app and click "Run Accent Analysis" get the results.
+5. video Url for testing: https://www.youtube.com/watch?v=2Xc9gXyf2G4
 
 ## How to replace mock classifier
 

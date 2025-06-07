@@ -40,7 +40,7 @@ In this proof-of-concept, I aimed to create a simple but practical tool that cou
     streamlit run app.py
     ```
 
-4. Enter a video URL in the app and get the results.
+4. Enter a video URL in the app and click "Run Accent Analysis" get the results.
 
 ## How to replace mock classifier
 
@@ -58,6 +58,6 @@ To replace the current mock classifier:
 
 ---
 
-Author: Khalid YUsuf Liman
+Author: Khalid Liman Yusuf
 
 

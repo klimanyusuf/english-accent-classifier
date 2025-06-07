@@ -1,10 +1,8 @@
 streamlit
 yt-dlp
-whisper
-ffmpeg-python
+openai-whisper
 scikit-learn
 numpy
 sentence-transformers
 transformers
-torch  # do not pin version (let whisper pull correct one)
-x
+
